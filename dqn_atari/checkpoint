@@ -1,0 +1,2 @@
+model_checkpoint_path: "AtariModel_Pong"
+all_model_checkpoint_paths: "AtariModel_Pong"
